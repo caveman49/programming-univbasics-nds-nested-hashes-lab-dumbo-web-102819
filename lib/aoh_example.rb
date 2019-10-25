@@ -24,8 +24,6 @@ def aoh_update(aoh, row, key, new_value)
   # Return the updated AoH
 end
 
-require 'pry'
-
 holiday_supplies = {
   :winter => {
     :christmas => ["Lights", "Wreath"],
